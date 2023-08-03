@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kirk9harro286
+- 👀 I’m interested in Software Engineering undergrad focusing on Ruby on Rails.
+- 🌱 Eager to contribute to and learn from open-source projects.
